@@ -1,0 +1,15 @@
+[submodule "Lab8"]
+	path = Lab8
+	url = ./Lab8
+[submodule "Lab9"]
+	path = Lab9
+	url = ./Lab9
+[submodule "Lab10"]
+	path = Lab10
+	url = ./Lab10
+[submodule "Lab11"]
+	path = Lab11
+	url = ./Lab11
+[submodule "Lab12"]
+	path = Lab12
+	url = ./Lab12
